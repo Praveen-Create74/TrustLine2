@@ -1,0 +1,18 @@
+[
+	{
+		"pkg": "@capacitor/app",
+		"classpath": "com.capacitorjs.plugins.app.AppPlugin"
+	},
+	{
+		"pkg": "@capacitor/filesystem",
+		"classpath": "com.capacitorjs.plugins.filesystem.FilesystemPlugin"
+	},
+	{
+		"pkg": "@capawesome-team/capacitor-android-battery-optimization",
+		"classpath": "io.capawesome.capacitorjs.plugins.batteryoptimization.BatteryOptimizationPlugin"
+	},
+	{
+		"pkg": "@mindlib-capacitor/send-intent",
+		"classpath": "de.mindlib.sendIntent.SendIntent"
+	}
+]

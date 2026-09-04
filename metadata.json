@@ -1,0 +1,7 @@
+{
+  "name": "TrustLine",
+  "description": "Native Android deepfake and synthetic voice detection utility featuring real-time VoIP HUD overlays, 7-second audio chunk analysis, and forensic threat analysis in Material 3.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
